@@ -1,4 +1,4 @@
-# Red Labels for Pivotal Tracker
+# Custom Labels for Pivotal Tracker
 
 This Chrome extension for Pivotal Tracker makes it very easy to see which of
 your stories are blocked for development. Included in this repository is a custom integration Credit: Mike Kenyon
