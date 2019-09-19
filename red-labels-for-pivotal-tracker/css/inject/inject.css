@@ -1,0 +1,41 @@
+.preview a.label.blocked {
+  background-color: hsl(349, 69%, 46%);
+  border-radius: 20px;
+  color: white;
+  margin: 0 2px;
+  padding: 1px 6px 1px 6px;
+  white-space: nowrap;
+}
+
+.full .blocked,
+.full .blocked ~ [data-aid="Label__RemoveButton"]
+{
+  background-color: hsl(349, 69%, 46%);
+}
+
+.full .blocked:hover,
+.full .blocked ~ [data-aid="Label__RemoveButton"]:hover
+{
+  background-color: hsl(349, 69%, 32%);
+}
+
+.preview a.label.branches {
+  background-color:#3710e6;
+  border-radius: 20px;
+  color: white;
+  margin: 0 2px;
+  padding: 1px 6px 1px 6px;
+  white-space: nowrap;
+}
+
+.full .branches,
+.full .branches ~ [data-aid="Label__RemoveButton"]
+{
+  background-color:#3710e6;
+}
+
+.full .branches:hover,
+.full .branches ~ [data-aid="Label__RemoveButton"]:hover
+{
+  background-color: #281485;
+}
