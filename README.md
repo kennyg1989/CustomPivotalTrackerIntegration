@@ -13,6 +13,9 @@ Any of these labels on stories will turn red:
 
 - blocked
 - needs <x>
+  
+Any of these labels on stories will turn blue:
+  
 - branch: <x>
 
 ## License
