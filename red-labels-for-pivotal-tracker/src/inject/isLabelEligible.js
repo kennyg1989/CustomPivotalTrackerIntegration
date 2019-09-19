@@ -3,5 +3,5 @@ var isLabelEligible = function isLabelEligible(labelText) {
 };
 
 var isLabelBranched = function isLabelEligible(labelText) {
-  return !!labelText.match(/\b(?:branch\s:)\b/);
+  return !!labelText.match(/\b(?:branch:)\b/);
 };
